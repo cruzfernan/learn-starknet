@@ -1,0 +1,35 @@
+[
+    {
+        "data": [
+            {
+                "name": "contract_address",
+                "type": "felt"
+            }
+        ],
+        "keys": [],
+        "name": "ownable_contract_deployed",
+        "type": "event"
+    },
+    {
+        "inputs": [
+            {
+                "name": "ownable_class_hash_",
+                "type": "felt"
+            }
+        ],
+        "name": "constructor",
+        "outputs": [],
+        "type": "constructor"
+    },
+    {
+        "inputs": [
+            {
+                "name": "owner_address",
+                "type": "felt"
+            }
+        ],
+        "name": "deploy_ownable_contract",
+        "outputs": [],
+        "type": "function"
+    }
+]
