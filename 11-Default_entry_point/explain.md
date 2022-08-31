@@ -1,4 +1,4 @@
-## Use case
+## Default entry point
 
 There are cases where the contract entry points are not known in advance. The most prominent example is a delegate proxy that forwards calls to an implementation contract class
 

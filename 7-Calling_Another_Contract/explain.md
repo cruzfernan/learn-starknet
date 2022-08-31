@@ -1,4 +1,4 @@
-## Overview
+# Calling another contract
 
 In order to call this contract from another contract, define an interface by copying the declarations of the external functions:
 

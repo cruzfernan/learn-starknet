@@ -1,4 +1,4 @@
-## Overview
+# Adding User Authentication
 
 Suppose that instead of maintaining one global variable `balance`, we would like to have a balance for each user (users will be identified by their STARK public keys).
 

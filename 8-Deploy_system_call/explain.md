@@ -1,4 +1,4 @@
-## The deploy system call
+# Deploying a contract by another contract
 
 A contract may use the `deploy` system call in order to deploy another contract.
 Here the contract class of the deployed contract must be declared before tx invoking the system call.
